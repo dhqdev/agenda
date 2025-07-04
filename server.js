@@ -11,7 +11,7 @@ const JWT_SECRET = 'agenda-secret-key-2025';
 
 app.use(cors());
 app.use(express.json());
-app.use(express.static('client/dist'));
+app.use(express.static('client'));
 
 const db = new sqlite3.Database('./agenda.db');
 
@@ -175,7 +175,7 @@ app.delete('/api/events/:id', authenticateToken, (req, res) => {
 });
 
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'client/dist/index.html'));
+  res.sendFile(path.join(__dirname, 'client/index.html'));
 });
 
 app.listen(PORT, () => {
