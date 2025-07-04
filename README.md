@@ -1,6 +1,6 @@
 # Sistema de Agenda Pessoal BACK+FRONT
 
-Por enquanto ele esta Hospedado no Render, mas como eu não pago a versão PRO deles, é necessário esperar alguns segundos para que o sistema incialize:
+Por enquanto ele esta Hospedado no Render, mas como eu não pago a versão PRO deles, é necessário esperar alguns segundos para que o sistema incialize quando você entra no link:
 https://agenda-6f9x.onrender.com
 
 
