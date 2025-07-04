@@ -16,6 +16,7 @@ body {
   padding: 20px;
 }
 
+
 .login-container, .register-container {
   display: flex;
   justify-content: center;
