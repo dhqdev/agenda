@@ -1,6 +1,6 @@
 # Sistema de Agenda Pessoal BACK+FRONT
 
-Por enquanto ele esta Hospedado no Render, todavia, você vai precisar aguardar 1 minuto para inicializar, por que estou usando a verão gratuita, ou seja depois de 15 minutos ele entra no modo sleeping: 
+Por enquanto ele esta Hospedado no Render, todavia, você vai precisar aguardar 1 minuto para inicializar, por que estou usando a versão gratuita, ou seja depois de 15 minutos ele entra no modo sleeping: 
 https://agenda-6f9x.onrender.com
 
 
