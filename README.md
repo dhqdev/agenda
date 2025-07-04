@@ -1,5 +1,8 @@
 # Sistema de Agenda Pessoal
 
+![image](https://github.com/user-attachments/assets/9dcdbac9-0fa7-4cf3-94b2-b98dc0755810)
+
+
 Sistema completo de agenda com autenticação, desenvolvido com Node.js no backend e Vue.js no frontend.
 
 ## Funcionalidades
